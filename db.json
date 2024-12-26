@@ -47,5 +47,18 @@
       "text": "Awesome post!",
       "postId": "5"
     }
+  ],
+  "todos":[
+    {
+      "id": "1",
+      "text": "Awesome json"
+    },
+    {
+      "id": "2",
+      "text": " json"
+    },{
+      "id": "3",
+      "text": "json6"
+    }
   ]
 }
